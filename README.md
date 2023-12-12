@@ -7,7 +7,7 @@ Hello i am Umar Deen, student of Computer science and engineering(AI&DS)in MBM U
 I like to learn and know such things which are logical, creative, interesting and fun. That's why i had chosen computer science and engineering branch and i am learning Android Development nowdays 
 
 
-![Visitor Count](https://profile-counter.glitch.me/umardeen/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/umardeen1/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -17,7 +17,7 @@ I like to learn and know such things which are logical, creative, interesting an
 </div>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=umardeen&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=umardeen1&theme=react-dark&area=true)
 <!--
 *umardeen/developerManoj47* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
