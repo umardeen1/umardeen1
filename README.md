@@ -15,7 +15,7 @@ I'm Umar Deen, a passionate Full Stack Developer specializing in the MERN (Mongo
 
 🚀 Explore my repositories to see some of the projects I've been working on. Always open to collaboration and eager to contribute to exciting projects. Let's connect and build something awesome together!
 
-📫 Reach out to me via LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Manoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myselfumar/)](https://www.linkedin.com/in/myselfmanoj/) .
+📫 Reach out to me via LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-umar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myselfumar/)](https://www.linkedin.com/in/myselfumar/) .
 
 Happy coding! 🚀
 
