@@ -1,17 +1,16 @@
 ### Hi Developers 👋
 
 <!--
-[![YouTube Badge](https://img.shields.io/badge/YouTube-developerManoj47-red)](https://www.youe.com/developerfunnel) 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverfw.c/users/3687251/aakash-)
-[![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://developermanoj47.github.io/manojProfile/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-ud.vlogss-red)](https://www.youe.com/developerfunnel) 
+[![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://umardeen1.github.io/umarProfile/)
 -->
 
 
 
 
-I'm Umar Deen, a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Currently in my 2nd year of pursuing B.E. in Computer science and engineering(AIDS)from Mugneeram Bangur Memorial University (MBM University) | 2026.
+I'm Umar Deen, a passionate Front-End Developer specializing in the HTML CSS And JavaScript. Currently in my 2nd year of pursuing B.E. in Computer science and engineering(AIDS)from Mugneeram Bangur Memorial University (MBM University) | 2026.
 
-💻 I love turning ideas into reality through code and enjoy working on both the front-end and back-end aspects of web development. My journey in technology is driven by a curiosity to learn and a commitment to creating efficient and user-friendly applications.
+💻 I love turning ideas into reality through code and enjoy working on the front-end aspects of web development. My journey in technology is driven by a curiosity to learn and a commitment to creating efficient and user-friendly applications.
 
 🚀 Explore my repositories to see some of the projects I've been working on. Always open to collaboration and eager to contribute to exciting projects. Let's connect and build something awesome together!
 
