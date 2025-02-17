@@ -8,7 +8,7 @@
 
 
 
-I'm Umar Deen, Flutter Developer and  Front-End Developer specializing in the HTML CSS And JavaScript. Currently in my 2nd year of pursuing B.E. in Computer science and engineering(AIDS)from Mugneeram Bangur Memorial University (MBM University) | 2026.
+I'm Umar Deen, Flutter Developer and  Front-End Developer specializing in the flutter (Dart) HTML CSS And JavaScript. Currently in my 3nd year of pursuing B.E. in Computer science and engineering(AIDS)from Mugneeram Bangur Memorial University (MBM University) | 2026.
 
 💻 I love turning ideas into reality through code and enjoy working on the Flutter Development and front-end aspects of web development. My journey in technology is driven by a curiosity to learn and a commitment to creating efficient and user-friendly applications.
 
