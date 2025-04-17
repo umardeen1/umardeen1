@@ -36,6 +36,8 @@ Languages and Tools:
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://tse3.mm.bing.net/th?id=OIP.nRFUjpFsHLSYCItJSPIJFwHaGQ&pid=Api&P=0&h=220" alt="c++" width="45" height="45" />
+<img src="https://tse4.mm.bing.net/th?id=OIP.KnOS3vOcNhLla8LSZw4TugHaHa&pid=Api&P=0&h=220" alt="Python" width="45" height="45" />
+
 
 
 
